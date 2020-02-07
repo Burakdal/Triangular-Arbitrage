@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\TriangularArbitrage\TriangularArbitrage\bin\x64\Debug\TriangularArbitrage.exe
+C:\Users\asus\source\repos\TriangularArbitrage\TriangularArbitrage\bin\x64\Debug\TriangularArbitrage.pdb
+C:\Users\asus\source\repos\TriangularArbitrage\TriangularArbitrage\obj\x64\Debug\TriangularArbitrage.OpportunityForm.resources
+C:\Users\asus\source\repos\TriangularArbitrage\TriangularArbitrage\obj\x64\Debug\TriangularArbitrage.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\TriangularArbitrage\TriangularArbitrage\obj\x64\Debug\TriangularArbitrage.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\TriangularArbitrage\TriangularArbitrage\obj\x64\Debug\TriangularArbitrage.exe
+C:\Users\asus\source\repos\TriangularArbitrage\TriangularArbitrage\obj\x64\Debug\TriangularArbitrage.pdb
+C:\Users\asus\source\repos\TriangularArbitrage\TriangularArbitrage\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\asus\source\repos\TriangularArbitrage\TriangularArbitrage\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\asus\source\repos\TriangularArbitrage\TriangularArbitrage\obj\x64\Debug\TriangularArbitrage.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\TriangularArbitrage\TriangularArbitrage\obj\x64\Debug\TriangularArbitrage.csproj.CopyComplete
