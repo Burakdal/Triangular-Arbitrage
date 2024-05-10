@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2F15973D-64BE-4F9D-9959-4D75780EE6B8}</ProjectGuid>
+    <ProjectGuid>{A50A8E43-6F59-445C-80B9-2AAFBF4157B5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TriangularArbitrage</RootNamespace>
